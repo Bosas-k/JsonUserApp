@@ -1,0 +1,14 @@
+[
+    {
+        "Name": "Alice",
+        "Age": 35,
+        "Permissions": "Full",
+        "Role": "Admin"
+    },
+    {
+        "Name": "Bob",
+        "Age": 22,
+        "MembershipLevel": "Gold",
+        "Role": "User"
+    }
+]
