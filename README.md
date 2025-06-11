@@ -20,7 +20,7 @@ Tai C# (.NET Framework) konsolinė programa, kuri vykdo darbą su JSON ir XML du
 6. Sukurtas ir nuskaitytas `user.xml` failas pagal teorinį XML pavyzdį.
 7. Kiekvienas žingsnis įkeltas į GitHub kaip atskiras commit, pridėtas `.gitignore` ir `README.md` failai.
 
-## Naudotos technologijos
+## Naudoti įrankiai. 
 
 - C# (.NET Framework)
 - Newtonsoft.Json (JSON nuskaitymui ir rašymui)
